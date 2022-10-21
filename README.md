@@ -7,14 +7,21 @@ cArDorm is a group project for Database Systems course in the third semester, be
 4. Query to simulate the transaction processes
 5. Query to answer the 10 cases given through the instructions
 
+### 1. Entity Relationship Diagram
+The entity relationship diagram was designed using Visual Paradigm, with the diagram shown as below or available through [this link](https://github.com/rhe-naldy/sql-cArDorm/blob/main/cArDorm.png).
 
+![cArDorm](https://user-images.githubusercontent.com/45966986/197157539-db242bf0-89b7-4b9a-961a-3688b8c3cb11.png)
 
+### 2. Query to create the database system
+The query to create the database system can be found within the file [CreateDatabase.sql](https://github.com/rhe-naldy/sql-cArDorm/blob/main/CreateDatabase.sql), where DDL syntaxes such as CREATE and ALTER was used to create the database and the tables within the database.
 
+### 3. Query to insert data into tables
+The query to insert data into tables can be found within the file [InsertData.sql](https://github.com/rhe-naldy/sql-cArDorm/blob/main/InsertData.sql), where DML syntaxes such as INSERT was used to insert values into tables within the database.
 
+### 4. Query to simulate the transaction processes
+The query to simulate the transaction processes can be found within the file [SimulateProcess.sql](https://github.com/rhe-naldy/sql-cArDorm/blob/main/SimulateProcess.sql), where functions were made with the purpose of simulating the purchase and transaction processes. 
 
-
-
-# 5. Query to answer the 10 cases given through the instructions
+### 5. Query to answer the 10 cases given through the instructions
 The file containing answer to the 10 cases given can be found within the file [CaseAnswer.sql](https://github.com/rhe-naldy/sql-cArDorm/blob/main/CaseAnswer.sql).
 
 Below are the 10 cases given through the instructions:
