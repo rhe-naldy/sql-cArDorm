@@ -15,7 +15,7 @@ cArDorm is a group project for Database Systems course in the third semester, be
 
 
 # 5. Query to answer the 10 cases given through the instructions
-The file containing answer to the 10 cases given can be found within the file *PUTLINKHERE*.
+The file containing answer to the 10 cases given can be found within the file [CaseAnswer.sql](https://github.com/rhe-naldy/sql-cArDorm/blob/main/CaseAnswer.sql).
 
 Below are the 10 cases given through the instructions:
 1.	Display CustomerName (obtained from the CustomerName starts with ‘Mrs. ’), CustomerGender (obtained from the CustomerGender with uppercase format), and Total Transaction (obtained from the count of transaction that have been done by customer) for each customer name contains two words and customer gender is ‘Female’
